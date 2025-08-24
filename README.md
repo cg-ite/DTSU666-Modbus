@@ -1,3 +1,10 @@
+# Why this fork?
+I have a Qcells Q.VOLT-P5T-X inverter that only supports Modbus RTU. I'm trying to get the real-time data from the DSTU666, since the inverter only sends consumption data every 5 minutes.
+
+Steps:
+- cmd line app for reading the consumption data.
+
+
 # Chint DTSU666-Modbus
 Chint DTSU666-Modbus 3P4W Multifunction Power Analyser with RS485 port Modbus-RTU for the domoticz plugin
 
