@@ -86,7 +86,7 @@ class dtsu666Emulator:
 			'stopbits': 1, 
 			'bytesize': 8, 
 			'parity': 'N',
-#			'identity': i1
+			'identity': i1
 			}
 
 
@@ -163,6 +163,7 @@ if __name__ == "__main__":
 
 	while True:
 		logging.info("updating the context")
+		print("updating the context")
 		em1.update(Testdata)
 		time.sleep(10)
 

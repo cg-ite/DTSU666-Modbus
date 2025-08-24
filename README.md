@@ -3,6 +3,8 @@ I have a Qcells Q.VOLT-P5T-X inverter that only supports Modbus RTU. I'm trying 
 
 Steps:
 - cmd line app for reading the consumption data.
+- dtsu666 emulator
+- routing real data to mqtt and emulator
 
 
 # Chint DTSU666-Modbus
